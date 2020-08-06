@@ -120,7 +120,6 @@ onChange={this.handleChange}
     
     </tbody>
   </Table>
-        <LineChart/>
       </Wrapper>
    
     );
